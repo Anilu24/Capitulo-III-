@@ -31,8 +31,7 @@ La técnica de biolabranza consiste en airear el suelon almacenado en montones y
 agregar agua y fertilizantes.En este caso, la aireación se realiza con equipos mecánicos como<br>
 tractores o retroexcavadoras.<br>
 <br>
-<img height="300" src="http://germen.com.mx/wp-content/uploads/2016/11/germen-empresa-de-geotecnia-
-y-biorremediacion-de-suelos-mexico-biolabranza1.jpg">
+<img height="300" src="https://www.germen.com.mx/wp-content/uploads/2016/11/germen-empresa-de-geotecnia-y-biorremediacion-de-suelos-mexico-biolabranza1.jpg">
 <br>
 <br>
 <br>
