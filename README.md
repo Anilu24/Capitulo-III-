@@ -23,8 +23,7 @@ en un ambiente con temperaturas mayores a 15 °C. El aire se introduce mediante 
 Las biopilas se construyen en capas de 30 cm de altura y después de cada capa se coloca la <br>
 tubería por la cual se va a introducir el aire, para que los microorganismos tengan oxígeno suficiente.<br>
 <br>
-<img height="500" src="https://prezigram-assets.prezicdn.net/8806288971689ad461ced1338c2b1bafcb24a299054190059
-c1be04c411c9abe8265ef48ede8f243381512702671b9a1e98d3afb4a121d0d998f3f7c3d80d518">
+<img height="500" src="https://prezigram-assets.prezicdn.net/8806288971689ad461ced1338c2b1bafcb24a299054190059c1be04c411c9abe8265ef48ede8f243381512702671b9a1e98d3afb4a121d0d998f3f7c3d80d518">
 <br>
 <br>
 <b>Biolabranza</b> <br>
